@@ -17,3 +17,5 @@ create a file requirements.txt
 
 pip install -r requirements.txt
 (-r is used to read the file requirements.txt)
+
+create exception.py and logging.py and code each of them respectively
